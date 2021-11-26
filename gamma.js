@@ -1,0 +1,3 @@
+class gamma {
+  constructor() {}
+}

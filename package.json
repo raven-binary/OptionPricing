@@ -1,0 +1,14 @@
+{
+  "name": "optionpricing",
+  "version": "1.0.0",
+  "description": "A Black-Scholes Merton Model that is extended to be used on server and client features",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RavenThevar",
+  "license": "Consult the Author",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
